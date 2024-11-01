@@ -1,0 +1,81 @@
+.sam_cover_image_preview {
+    max-width: 300px;
+    height: auto;
+}
+
+.sam_input {
+    margin: 1rem 0;
+}
+
+.sam-select2 {
+	height: 2.25rem;
+}
+
+.select2-container .select2-selection--single {
+	height: 2.25rem !important;
+	padding: 0.5rem 0.25rem;
+	font-size: 1rem !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+	height: 2.25rem !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+	line-height: unset !important;
+}
+
+.sam_input input, select {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+}
+
+.sam_input input.sam_cover_image_button {
+    width: inherit;
+}
+
+.sam_input input[type="checkbox"] {
+    width: auto;
+}
+
+.sam-form-table {
+
+    background: #e7e7e7;
+}
+
+.sam-form-table th {
+    padding-left: 25px;
+}
+
+.sam-check-out {
+    padding: 25px;
+    background: #0085ba;
+    color: #ffffff;
+    font-size: 150%;
+}
+
+.sam-check-out a {
+    color: #ffffff;
+}
+
+.sam_show_in_slider,
+.sam_reprint {
+    width: 10em;
+}
+
+.sam_reprint_id_meta {
+    display: none;
+}
+
+.sam-bookstore-icon {
+    display: inline-block;
+    margin: 10px;
+}
+
+.sam-bookstore-icon img {
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin: 10px 0 0 0;
+}
